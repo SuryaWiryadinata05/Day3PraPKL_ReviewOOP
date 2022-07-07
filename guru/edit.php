@@ -76,7 +76,7 @@
                         <input type="text" class="form-control" name="nip" value="<?php echo $nip; ?>">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">nama</label>
+                        <label for="exampleInputEmail1">namaa</label>
                         <input type="text" class="form-control" name="nama" value="<?php echo $nama; ?>">
                     </div>
                     <div class="form-group">
