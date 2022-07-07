@@ -70,7 +70,7 @@
                 <input type="hidden" name="aksi" value="show">
                 <input type="hidden" name="no" value="<?php echo $no; ?>">
                     <div class="form-group bg-warning text-sm-center">
-                        <label for="exampleInputEmail1 bg-light"><h5>nip</h5></label> 
+                        <label for="exampleInputEmail1 bg-light"><h5>nis</h5></label> 
                         <input type="text" class="form-control" name="nip" value="<?php echo $nip; ?>" disabled>
                     </div>
                     <div class="form-group bg-warning text-sm-center">
