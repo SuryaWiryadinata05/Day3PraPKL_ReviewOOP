@@ -50,7 +50,7 @@
                         <small id="emailHelp" class="form-text text-muted"></small>
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1"><h5><b>alamat</b></h5></label>
+                        <label for="exampleInputEmail1"><h5><b>alamatt</b></h5></label>
                         <input type="text" class="form-control" name="alamat">
                         <small id="emailHelp" class="form-text text-muted"></small>
                     </div>
